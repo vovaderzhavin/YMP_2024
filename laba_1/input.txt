@@ -1,0 +1,16 @@
+PROGRAM MyProgram 
+INTEGER a, b, number121 
+REAL x, y, w  
+a = 42321 
+x = 31.9678 
+b = RTOI(a + x) 
+INTEGER i = 6219.34
+REAL g = ITOR(y - x) 
+ITOD(683)
+REAL c = x + g 
+
+aboba33
+12222jkjlsad
+el91!!LL
+??^%&&$))<><> 
+END MyProgram 

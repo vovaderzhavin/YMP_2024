@@ -1,0 +1,37 @@
+|==================|================|=============|
+|  Type of lexeme  |     Lexeme     |    Index    |
+|==================|================|=============|
+| PROGRAM          | PROGRAM        | 1848        |
+| ID NAME          | MyProgram      | 5394        |
+| TYPE             | INTEGER        | 910         |
+| ID NAME          | a              | 97          |
+| DELIMITER        | ,              | 44          |
+| ID NAME          | b              | 98          |
+| TYPE             | REAL           | 5600        |
+| ID NAME          | x              | 120         |
+| ID NAME          | y              | 121         |
+| ID NAME          | w              | 119         |
+| OPERATOR         | =              | 61          |
+| INTEGER NUMBER   | 42321          | 4340        |
+| REAL NUMBER      | 31.9678        | 9548        |
+| ID NAME          | RTOI           | 5450        |
+| DELIMITER        | (              | 40          |
+| OPERATOR         | +              | 43          |
+| DELIMITER        | )              | 41          |
+| ID NAME          | i              | 105         |
+| REAL NUMBER      | 6219.34        | 5543        |
+| ID NAME          | g              | 103         |
+| FUNCTION         | ITOR           | 5686        |
+| OPERATOR         | -              | 45          |
+| FUNCTION         | ITOD           | 5672        |
+| INTEGER NUMBER   | 683            | 9905        |
+| ID NAME          | c              | 99          |
+| END              | END            | 5691        |
+|==================|================|=============|
+| ERROR            | <><>           | 3140        |
+| ERROR            | ??^%&&$        | 3401        |
+| ERROR            | 12222jkjlsad   | 6456        |
+| ERROR            | el91!!LL       | 7921        |
+| ERROR            | number121      | 8793        |
+| ERROR            | aboba33        | 9871        |
+|==================|================|=============|
